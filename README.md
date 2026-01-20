@@ -1,7 +1,7 @@
 <h1>Future Plans for This Microsoft 365 Lab</h1>
 
 <p>
-  This lab is designed to build real-world Microsoft 365 administration skills. Now that the tenant and test users are created, the next steps include:
+  This lab is designed to build real-world Microsoft 365 administration skills. I've created the tenant and made test users, the next steps include:
 </p>
 
 <h3>1. User &amp; Identity Management</h3>
